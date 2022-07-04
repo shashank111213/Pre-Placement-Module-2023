@@ -1,14 +1,14 @@
 # Pre-Placement-Module-2023
 
-- Name: 
-- University Roll No.:
-- Branch:
-- Section:
-- Preferred Programming Language: C++/Java/Python
+- Name: Shashank Mishra
+- University Roll No.:1900290210144
+- Branch:Electrical and Electronics
+- Section:C
+- Preferred Programming Language: C++
 
 ## Coding Profiles
-- LeetCode: [FIRSTNAME_LASTNAME](https://leetcode.com/YourLeetCodeUserName/)
-- HackerRank: [FIRSTNAME_LASTNAME](https://www.hackerrank.com/HackerRankUserName)
+- LeetCode: [FIRSTNAME_LASTNAME](https://leetcode.com/wayneofgotham/)
+- HackerRank: [FIRSTNAME_LASTNAME](https://www.hackerrank.com/shashank_1923en1)
 
 ## Placement Module
 1. [DS I](https://github.com/YOURGITHUBUSERNAME/Pre-Placement-Module-2023/tree/main/DS%20I)
